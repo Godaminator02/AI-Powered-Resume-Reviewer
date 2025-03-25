@@ -18,7 +18,7 @@ Before running the project, ensure you have the following installed:
 - Virtual environment (`venv`)  
 - Required dependencies (`pip install -r requirements.txt`)  
 - **Google Gemini API Key** (stored in a `.env` file)  
-- uvicorn main:app --host 0.0.0.0 --port 8000 --reload --log-level debug
+- uvicorn main:app --host 0.0.0.0 --port 8000 --reload --log-level debug / uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 ---
 
